@@ -1,4 +1,4 @@
-<?php namespace App\Http\Controllers;
+<?php namespace Clinica\Http\Controllers;
 
 class WelcomeController extends Controller {
 
